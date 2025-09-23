@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou Miguel Expedito 👋</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/migueleaferreira/" target="_blank">LinkedIn</a> • 
-  <a href="https://migueleaferreira.github.io/portfolio/" target="_blank">Portfólio</a> • 
-  <a href="mailto:seuemail@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/miguel-expedito-2aa2a9164/" target="_blank">LinkedIn</a> • 
+  <a href="https://migueleaferreira.github.io/Meu_Portifolio/" target="_blank">Portfólio</a> • 
+  <a href="mailto:miguelferreiiraa@outlook.com">Email</a>
 </p>
 
 ---
@@ -17,12 +17,12 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor apaixona
 
 ---
 
-## Portfólio
+## Portfólio e Projetos
 Aqui estão alguns dos meus projetos:
 
-- [Meu Portfólio](https://github.com/migueleaferreira/portfolio) – Site pessoal com meus projetos e habilidades.
-- [Projeto 1](#) – Breve descrição do projeto.
-- [Projeto 2](#) – Breve descrição do projeto.
+- [Meu Portfólio](https://migueleaferreira.github.io/Meu_Portifolio/) – Site pessoal com meus projetos e habilidades.
+- [Gerenciador de Tarefas](https://migueleaferreira.github.io/gerenciador_tarefas1/) – Aplicativo web de gerenciamento de tarefas.
+- [Tela Inicial](https://migueleaferreira.github.io/Tela-Inicial/) – Projeto de interface inicial de aplicação web.
 
 ---
 
@@ -35,5 +35,5 @@ Aqui estão alguns dos meus projetos:
 ---
 
 ## Contato
-- 📫 Email: seuemail@gmail.com
-- 💬 LinkedIn: [https://www.linkedin.com/in/migueleaferreira/](https://www.linkedin.com/in/migueleaferreira/)
+- 📫 Email: miguelferreiiraa@outlook.com
+- 💬 LinkedIn: [https://www.linkedin.com/in/miguel-expedito-2aa2a9164/](https://www.linkedin.com/in/miguel-expedito-2aa2a9164/)
