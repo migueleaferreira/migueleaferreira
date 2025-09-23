@@ -1,32 +1,51 @@
-<h1 align="center">Olá, eu sou Miguel Expedito 👋</h1>
+<h1 align="center">Hello, I'm Miguel Expedito 👋</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/miguel-expedito-2aa2a9164/" target="_blank">LinkedIn</a> • 
-  <a href="https://migueleaferreira.github.io/Meu_Portifolio/" target="_blank">Portfólio</a> • 
+  <a href="https://migueleaferreira.github.io/Meu_Portifolio/" target="_blank">Portfolio</a> • 
   <a href="mailto:miguelferreiiraa@outlook.com">Email</a>
 </p>
 
 ---
 
-## Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor apaixonado por criar soluções práticas e eficientes. Estou sempre aprendendo novas tecnologias e contribuindo para projetos open-source.
+## About Me
+I'm a student of Systems Analysis and Development and a developer passionate about creating practical and efficient solutions. Always learning new technologies and contributing to open-source projects.
 
-- 🌱 Atualmente aprendendo: Python, Flask, Git, GitHub
-- 👯 Buscando colaborar em projetos que envolvam desenvolvimento web e automação
-- 💬 Pergunte-me sobre: programação, desenvolvimento web, Git e GitHub
-- ⚡ Curiosidade: adoro explorar novas ferramentas de produtividade e organização
-
----
-
-## Portfólio e Projetos
-Aqui estão alguns dos meus projetos:
-
-- [Meu Portfólio](https://migueleaferreira.github.io/Meu_Portifolio/) – Site pessoal com meus projetos e habilidades.
-- [Gerenciador de Tarefas](https://migueleaferreira.github.io/gerenciador_tarefas1/) – Aplicativo web de gerenciamento de tarefas.
-- [Tela Inicial](https://migueleaferreira.github.io/Tela-Inicial/) – Projeto de interface inicial de aplicação web.
+- 🌱 Currently learning: Python, Flask, Git, GitHub
+- 👯 Looking to collaborate on web development and automation projects
+- 💬 Ask me about: programming, web development, Git, GitHub
+- ⚡ Fun fact: I love exploring new productivity and organization tools
 
 ---
 
-## Estatísticas
+## 🛠 Technologies & Tools
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 📂 Portfolio & Projects
+<p align="center">
+  <a href="https://migueleaferreira.github.io/Meu_Portifolio/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://migueleaferreira.github.io/gerenciador_tarefas1/" target="_blank">
+    <img src="https://img.shields.io/badge/-Task_Manager-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Task Manager"/>
+  </a>
+  <a href="https://migueleaferreira.github.io/Tela-Inicial/" target="_blank">
+    <img src="https://img.shields.io/badge/-Home_Screen-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="Home Screen"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=migueleaferreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=migueleaferreira&theme=tokyonight"/>
@@ -34,6 +53,6 @@ Aqui estão alguns dos meus projetos:
 
 ---
 
-## Contato
-- 📫 Email: miguelferreiiraa@outlook.com
+## 📫 Contact
+- ✉️ Email: miguelferreiiraa@outlook.com  
 - 💬 LinkedIn: [https://www.linkedin.com/in/miguel-expedito-2aa2a9164/](https://www.linkedin.com/in/miguel-expedito-2aa2a9164/)
