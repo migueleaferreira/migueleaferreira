@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Miguel Expedito 👋</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/miguel-expedito-2aa2a9164/" target="_blank">LinkedIn</a> • 
-  <a href="https://migueleaferreira.github.io/Meu_Portifolio/" target="_blank">Portfolio</a> • 
+  <a href="http://127.0.0.1:5500/index.html" target="_blank">Portfolio</a> • 
   <a href="mailto:miguelferreiiraa@outlook.com">Email</a>
 </p>
 
