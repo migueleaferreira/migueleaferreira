@@ -10,7 +10,7 @@
 ## About Me
 I'm a student of Systems Analysis and Development and a developer passionate about creating practical and efficient solutions. Always learning new technologies and contributing to open-source projects.
 
-- 🌱 Currently learning: Python, Flask, Git, GitHub
+- 🌱 Currently learning: Python, CSS, HTML, Git, GitHub
 - 👯 Looking to collaborate on web development and automation projects
 - 💬 Ask me about: programming, web development, Git, GitHub
 - ⚡ Fun fact: I love exploring new productivity and organization tools
