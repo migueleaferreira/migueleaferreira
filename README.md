@@ -6,13 +6,6 @@
 </p>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.commigueleaferreira/migueleaferreira/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/migueleaferreira/migueleaferreira/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/migueleaferreira/migueleaferreira/output/github-contribution-grid-snake.svg">
-</picture>
----
-
 ## About Me
 I'm a student of Systems Analysis and Development and a developer passionate about creating practical and efficient solutions. Always learning new technologies and contributing to open-source projects.
 
@@ -60,3 +53,9 @@ I'm a student of Systems Analysis and Development and a developer passionate abo
 ## 📫 Contact
 - ✉️ Email: miguelferreiiraa@outlook.com  
 - 💬 LinkedIn: [https://www.linkedin.com/in/miguel-expedito-2aa2a9164/](https://www.linkedin.com/in/miguel-expedito-2aa2a9164/)
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.commigueleaferreira/migueleaferreira/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/migueleaferreira/migueleaferreira/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/migueleaferreira/migueleaferreira/output/github-contribution-grid-snake.svg">
+</picture>
