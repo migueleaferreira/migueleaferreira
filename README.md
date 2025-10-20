@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Miguel Expedito 👋</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/miguel-expedito-2aa2a9164/" target="_blank">LinkedIn</a> • 
-  <a href="http://127.0.0.1:5500/index.html" target="_blank">Portfolio</a> • 
+  <a href="https://migueleaferreira.github.io/Meu_Portfolio/" target="_blank">Portfolio</a> • 
   <a href="mailto:miguelferreiiraa@outlook.com">Email</a>
 </p>
 
@@ -29,7 +29,7 @@ I'm a student of Systems Analysis and Development and a developer passionate abo
 
 ## 📂 Portfolio & Projects
 <p align="center">
-  <a href="http://127.0.0.1:5500/index.html" target="_blank">
+  <a href="https://migueleaferreira.github.io/Meu_Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://migueleaferreira.github.io/gerenciador_tarefas1/" target="_blank">
