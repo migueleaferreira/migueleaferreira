@@ -1,23 +1,26 @@
-<h1 align="center">Hello, I'm Miguel Expedito 👋</h1>
+<h1 align="center">👋 Hello, I'm Miguel Expedito</h1>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/miguel-expedito-2aa2a9164/" target="_blank">LinkedIn</a> • 
-  <a href="https://migueleaferreira.github.io/Meu_Portfolio/" target="_blank">Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/miguel-expedito-2aa2a9164/" target="_blank">LinkedIn</a> •
+  <a href="https://migueleaferreira.github.io/Meu_Portfolio/" target="_blank">Portfolio</a> •
   <a href="mailto:miguelferreiiraa@outlook.com">Email</a>
 </p>
 
+---
 
-## About Me
-I'm a student of Systems Analysis and Development and a developer passionate about creating practical and efficient solutions. Always learning new technologies and contributing to open-source projects.
+## 👨‍💻 About Me
+I'm a student of **Systems Analysis and Development** and a developer passionate about creating practical and efficient solutions.  
+Always learning new technologies and contributing to open-source projects.
 
-- 🌱 Currently learning: Python, CSS, HTML, Git, GitHub
-- 👯 Looking to collaborate on web development and automation projects
-- 💬 Ask me about: programming, web development, Git, GitHub
-- ⚡ Fun fact: I love exploring new productivity and organization tools
+- 🌱 Currently learning: **Python, CSS, HTML, Git, GitHub**
+- 👯 Looking to collaborate on **web development** and **automation projects**
+- 💬 Ask me about: **programming, web development, Git, GitHub**
+- ⚡ Fun fact: I love exploring new **productivity and organization tools**
 
 ---
 
 ## 🛠 Technologies & Tools
-<p align="center">
+<p align="center" style="display:flex;justify-content:center;gap:6px;flex-wrap:wrap;">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -28,8 +31,7 @@ I'm a student of Systems Analysis and Development and a developer passionate abo
 ---
 
 ## 📂 Portfolio & Projects
-
-<p align="center">
+<p align="center" style="display:flex;justify-content:center;gap:6px;flex-wrap:wrap;">
   <a href="https://migueleaferreira.github.io/Meu_Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
@@ -40,11 +42,9 @@ I'm a student of Systems Analysis and Development and a developer passionate abo
     <img src="https://img.shields.io/badge/-Home_Screen-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="Home Screen"/>
   </a>
   <a href="https://migueleaferreira.github.io/certificados-webpage/" target="_blank">
-    <img src="https://img.shields.io/badge/-Certificates-FFA500?style=for-the-badge&logo=Udemy&logoColor=white" alt="Certificates Webpage"/>
-  </a>
+    <img src="https://img.shields.io/badge/-Certificates-FFA500?style=for-the-badge&logo=Udemy&logoColor=white" alt="Certificates Webpage"/>
+  </a>
 </p>
-
-
 
 ---
 
@@ -57,11 +57,15 @@ I'm a student of Systems Analysis and Development and a developer passionate abo
 ---
 
 ## 📫 Contact
-- ✉️ Email: miguelferreiiraa@outlook.com  
-- 💬 LinkedIn: [https://www.linkedin.com/in/miguel-expedito-2aa2a9164/](https://www.linkedin.com/in/miguel-expedito-2aa2a9164/)
+- ✉️ Email: [miguelferreiiraa@outlook.com](mailto:miguelferreiiraa@outlook.com)  
+- 💬 LinkedIn: [linkedin.com/in/miguel-expedito-2aa2a9164](https://www.linkedin.com/in/miguel-expedito-2aa2a9164/)
 
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.commigueleaferreira/migueleaferreira/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/migueleaferreira/migueleaferreira/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/migueleaferreira/migueleaferreira/output/github-contribution-grid-snake.svg">
-</picture>
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/migueleaferreira/migueleaferreira/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/migueleaferreira/migueleaferreira/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/migueleaferreira/migueleaferreira/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
