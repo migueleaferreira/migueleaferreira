@@ -28,20 +28,23 @@ I'm a student of Systems Analysis and Development and a developer passionate abo
 ---
 
 ## 📂 Portfolio & Projects
+
 <p align="center">
-  <a href="https://migueleaferreira.github.io/Meu_Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://migueleaferreira.github.io/gerenciador_tarefas1/" target="_blank">
-    <img src="https://img.shields.io/badge/-Task_Manager-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Task Manager"/>
-  </a>
-  <a href="https://migueleaferreira.github.io/Tela-Inicial/" target="_blank">
-    <img src="https://img.shields.io/badge/-Home_Screen-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="Home Screen"/>
-  </a>
-  <a href="https://migueleaferreira.github.io/certificados-webpage/" target="_blank">
+  <a href="https://migueleaferreira.github.io/Meu_Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://migueleaferreira.github.io/gerenciador_tarefas1/" target="_blank">
+    <img src="https://img.shields.io/badge/-Task_Manager-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Task Manager"/>
+  </a>
+  <a href="https://migueleaferreira.github.io/Tela-Inicial/" target="_blank">
+    <img src="https://img.shields.io/badge/-Home_Screen-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="Home Screen"/>
+  </a>
+  <a href="https://migueleaferreira.github.io/certificados-webpage/" target="_blank">
     <img src="https://img.shields.io/badge/-Certificates-FFA500?style=for-the-badge&logo=Udemy&logoColor=white" alt="Certificates Webpage"/>
   </a>
 </p>
+
+
 
 ---
 
