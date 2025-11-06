@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨🏾‍💻 About Me
 I'm a student of **Systems Analysis and Development** and a developer passionate about creating practical and efficient solutions.  
 Always learning new technologies and contributing to open-source projects.
 
